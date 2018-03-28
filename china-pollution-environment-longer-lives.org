@@ -1,0 +1,12 @@
+#    -*- mode: org -*-
+#+TITLE:     Four Years After Declaring War on Pollution, China Is Winning
+#+AUTHOR:		Cauchy Cai
+#+EMAIL:		cauchy.cai@gmail.com
+#+DATE:     2018-03-28 Wed
+
+* The links
+  - English: [[https://www.nytimes.com/2018/03/12/upshot/china-pollution-environment-longer-lives.html][Four Years After Declaring War on Pollution, China Is Winning]]
+  - Chinese: [[https://cn.nytimes.com/china/20180313/china-pollution-environment-longer-lives/][治理空气污染迅速见效，中国是怎么做到的？]]
+
+* My Translation
+** 2018-03-28
