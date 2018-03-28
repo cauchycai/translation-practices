@@ -1,0 +1,5 @@
+#    -*- mode: org -*-
+#+TITLE:     翻译练习
+#+AUTHOR:		Cauchy Cai
+#+EMAIL:		cauchy.cai@gmail.com
+#+DATE:     2018-03-28 Wed
